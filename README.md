@@ -5,7 +5,7 @@
 
 ## 📌 Project Overview
 
-As someone transitioning into data science with an interest in the banking and finance sector, I sought to take on a project that combines both business relevance and technical depth. This project focuses on predicting startup success using Crunchbase data. I approached it from three key angles:
+Driven by my interest in the fintech sector, I sought to take on a project that combines both business relevance and technical depth. This project focuses on predicting startup success using Crunchbase data. I approached it from three key angles:
 
 - **Regression** to understand funding patterns  
 - **Classification** to predict startup outcomes  
